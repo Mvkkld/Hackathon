@@ -1,0 +1,59 @@
+nav{
+    width: 60%;
+}
+
+.image-1{
+    padding-left: 10px !important;
+    height: 390px;
+    width: 390px;
+
+}
+.div-one{
+    height: 300px;
+    width: 350px;
+
+}
+.butten-1{
+    border-radius: 10px;
+    border: none;
+    color: white;
+    height: 35px;
+    width: 105px;
+    background-color: greenyellow;
+}
+.chefimg{
+    height: 190px;
+    width: 190px;
+}
+.explor{
+    background-color: green;
+    width:151px ;
+}
+.sami{
+    height: 300px;
+    width: 350px;
+}
+h6{
+    display: flex;
+    justify-content: center;
+    color: peru;
+    margin-top: 120px;
+}
+.whychooseus{
+    display: flex;
+    justify-content: center;
+    
+}
+.ofr-1{
+    display: flex;
+    justify-content: center;
+    border-radius: 12px;
+    height: 200px;
+    width: 210px;
+    background-color: lightgreen;
+}
+.cart{
+    margin-top: 30px;
+    height: 50px;
+    width: 50px;
+}
